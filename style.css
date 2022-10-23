@@ -1,0 +1,228 @@
+body {
+    background: #0B0D39 0% 0% no-repeat padding-box;
+    margin: 0px;
+}
+
+.inner-box {
+ width: 840px;
+ height: 63px;
+background: #1A1C46 0% 0% no-repeat padding-box;
+box-shadow: 0px 19px 55px #00000014;
+border-radius: 62px;
+margin-left:11%;
+padding-left:2%;
+display: flex;
+justify-content: space-between;
+
+
+
+}
+
+
+.logo1 {
+ width: 108px;
+height: 46px;
+background: transparent url('img/Group 4.png') 0% 0% no-repeat padding-box;
+}
+    
+
+
+.menu {
+list-style: none;
+text-align: left; 
+display: flex;
+justify-content: center;
+gap: 28%;
+margin-right: 18%;
+font: normal normal medium 20px/27px DM Sans;
+align-items: center;
+color: #FFFFFF
+
+} 
+
+.home1 {
+    font: normal normal bold 20px/27px DM Sans;
+    
+}
+
+
+.template {
+    font: normal normal bold 80px/98px DM Sans;
+    width: 654px;
+    height: 204px;
+    color: #FFFFFF;
+    margin-bottom: 19px;
+}
+
+.startup {
+    color: gray;
+    width: 560px;
+    font: normal normal normal 20px/35px DM Sans;
+    height: 99px;
+    margin-bottom: -4px;
+    font-size: 20px;
+
+   
+}
+
+.button{
+ width: 209px;
+height: 70px;
+background: #356DFF 0% 0% no-repeat padding-box;
+border-radius: 43px 43px 43px 12px;
+color: white;
+font: normal normal medium 20px/27px DM Sans;
+font-size: 20px;
+margin-bottom: -19px;
+}
+
+
+.inner-box1 { 
+background: #1A1C46 0% 0% no-repeat padding-box;
+border-radius: 40px;
+width: 860px;
+height: 666px;
+margin-left: 11%;
+margin-top: 3%;
+
+
+}
+
+.dream-template {
+width: 598px;
+height: 85px;
+text-align: center;
+font: normal normal bold 64px/93px DM Sans;
+letter-spacing: -2.75px;
+color: white;
+margin-left: 21%;
+}
+
+
+.main-heading {
+    margin-left: 11%;
+}
+
+
+
+
+#Template {
+    color: #356DFF;
+}
+
+#Template2 {
+    color: #356DFF;
+}
+
+.Rame {
+    font-size: 80px;
+    font: normal normal bold 80px/98px DM Sans;
+    justify-content: center;
+    margin-top: 3%;
+    
+}
+
+#the {
+    color: white;
+    width: 654px;
+height: 204px;
+}
+
+#text {
+    color:#FFFFFF;
+    width: 654px;
+    height: 204px;
+}
+
+.dream-template {
+    text-align: center;
+    font: normal normal bold 64px/93px DM Sans;
+    
+}
+
+
+
+
+
+.logoebi-main {
+    display: flex;
+   
+}
+
+
+.p1d {
+    width: 238px;
+    height: 32px;
+    text-align: center;
+font: normal normal bold 24px/35px DM Sans;
+color: #FFFFFF;
+}
+
+
+
+.p1b {
+    width: 238px;
+    height: 32px;
+    text-align: center;
+    font: normal normal bold 24px/35px DM Sans;
+    letter-spacing: -0.72px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+
+.p1c {
+    width: 238px;
+height: 32px;
+text-align: center;
+font: normal normal bold 24px/35px DM Sans;
+letter-spacing: -0.72px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+
+.logo4 {
+    width: 236px;
+    height: 236px;
+    padding-top: 8%;
+}
+
+
+.logo2 {
+    width: 270px;
+    height: 270px;
+    padding-top: 4%;
+}
+
+
+.logo3 {
+    width: 287px;
+    height: 287px;
+    padding-top: 2%;
+}
+
+
+.p2s1 {
+    text-align: center;
+font: normal normal normal 16px/25px DM Sans;
+letter-spacing: -0.06px;
+color: #FFFFFF;
+opacity: 0.6;
+}
+
+.p2s2 {
+text-align: center;
+font: normal normal normal 16px/25px DM Sans;
+letter-spacing: -0.06px;
+color: #FFFFFF;
+opacity: 0.6;
+}
+
+.p2s3 {
+    text-align: center;
+font: normal normal normal 16px/25px DM Sans;
+letter-spacing: -0.06px;
+color: #FFFFFF;
+opacity: 0.6;
+}
